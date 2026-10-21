@@ -5,7 +5,6 @@ Implementation of Mehrotra's Predictor-Corrector Interior-Point Method
 ===============================================================================
 
 Author:         Giuseppe Muschetta
-ID:             564026
 Program:        M.Sc. in Data Science & Business Informatics
 University:     University of Pisa
 Course:         Optimization for Data Science
